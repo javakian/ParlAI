@@ -16,7 +16,7 @@
     "async-lock": "1.0.0",
     "body-parser": "1.17.2",
     "esm": "^3.2.25",
-    "express": "4.15.3",
+    "express": "4.19.2",
     "nunjucks": "3.0.1",
     "pg": "7.0.2",
     "pg-hstore": "2.3.2",
